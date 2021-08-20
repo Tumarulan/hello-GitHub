@@ -1,5 +1,5 @@
-git
-github
-commit
-repo
-hash
+git control version
+github web version collaboration
+commit save
+repo repository of the file
+hash unique code of each commit
